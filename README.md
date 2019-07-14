@@ -27,7 +27,7 @@ NA
 
 #### Running the app
 * `npm start`
-* `nodemon`
+* `nodemon` 
   
 #### Tests
 * How do you run tests? npm test
