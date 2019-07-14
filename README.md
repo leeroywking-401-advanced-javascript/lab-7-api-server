@@ -5,7 +5,7 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/leeroywking-401-advanced-javascript/lab-7-api-server.svg?branch=master) [![Build Status](https://www.travis-ci.com/leeroywking-401-advanced-javascript/lab-7-api-server.svg?branch=master)](https://www.travis-ci.com/leeroywking-401-advanced-javascript/lab-7-api-server)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)  // told to wait on this until monday
